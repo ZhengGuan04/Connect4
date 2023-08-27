@@ -1,6 +1,8 @@
 # Connect4
 project1(python)
 
+check.py is used to test my python code.
+
 Connect 4 is a two player game played on a six-row, seven-column vertically suspended grid where players alternate by dropping a yellow or red disc to the grid (the discs may vary in color as long as two different color discs are used). The discs fall straight down, occupying the lowest available space within the column. The object of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
 
 When a game starts, yellow disc always play first. We are concerned about valid moves. A valid move is a move that:
